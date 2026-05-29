@@ -1,6 +1,6 @@
 ﻿# kiddox-booking-backend
 
-Booking microservice ??class scheduling, enrollment, waitlists.
+Booking microservice — class scheduling, enrollment, waitlists.
 
 ## Tech Stack
 
@@ -13,11 +13,11 @@ Booking microservice ??class scheduling, enrollment, waitlists.
 
 ## Quick Start
 
-`ash
+```bash
 pip install -e ".[dev]"
 uvicorn app.main:app --reload --port 8003
-`
+```
 
 ## License
 
-Proprietary ??Kiddox Limited
+Proprietary — Kiddox Limited
